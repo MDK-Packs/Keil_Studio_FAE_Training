@@ -29,8 +29,8 @@ development board. The application utilizes components from the
    ![Create a New Solution](./img/CreateNetworkApp.png)
 4. Click “Create”.
 5. In the following "Configure Solution" dialog just press OK.  
-   ![Configure Solution](./img/ConfigureSolution.png)
-6. Open `vcpkg_configuration.json` and add the Arm GNU Toolchain using the GUI preview. Save the file.  
+  ![Add_SW_Layer](https://github.com/user-attachments/assets/10c16603-3904-4291-974a-689b40b5d934)
+6. Open `vcpkg_configuration.json` and add the Arm GNU Toolchain using the GUI preview; enter: "arm:compilers/arm/arm-none-eabi-gcc": "14.2.1" and save the file.  
    ![Add the GCC toolchain to the vcpkg_configuraiton.json file](./img/AddGCCvcpkgConfig.png)
 
 ### Configure Project
