@@ -80,8 +80,13 @@ may demonstrate additional features of Keil Studio.
 
 ### Step 4: Interact with the Web Server
 
-Once the application is running, open a web browser and enter the IP address shown in the serial console to access the
-device-hosted web server.
+Once the application is running, open a web browser and enter the IP address shown in the serial console ...
+
+![Terminal](https://github.com/user-attachments/assets/050e91f4-c2b5-4c87-ab13-907e9a070573)
+
+...to access the device-hosted web server:
+
+![WebServer2](https://github.com/user-attachments/assets/20d2290f-1ffc-43bb-93cb-887e3606c043)
 
 ## Conclusion
 
